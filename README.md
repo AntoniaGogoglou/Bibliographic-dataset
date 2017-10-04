@@ -1,0 +1,2 @@
+# Bibliographic-dataset
+This repository contains a sample of scientists with their complete citation and collaboration graphs as retrieved from MAS and the complete information on their citers and collaborators as well. This results in complete graphs (publication, citation and collaboration) around an initial sample of authors allowing for bibliographic analysis across multi-layer graphs. The complete dataset can be obtained upon request (agogoglou@csd.auth.gr)
